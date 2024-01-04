@@ -1,0 +1,131 @@
+{
+    "constellations": [
+        {
+            "name": "Taurus",
+            "stars": [
+                "Aldebaran",
+                "Elnath",
+                "Tau Tauri",
+                "Zeta Tauri"
+            ]
+        },
+        {
+            "name": "Orion",
+            "stars": [
+                "Betelgeuse",
+                "Rigel",
+                "Bellatrix",
+                "wc"
+            ]
+        },
+        {
+            "name": "Virgo",
+            "stars": [
+                "Spicas",
+                "Porrima",
+                "Auva",
+                "Vindemiatrix"
+            ]
+        },
+        {
+            "name": "Scorpius",
+            "stars": [
+                "Antares",
+                "Shaulaq",
+                "Sargassssss"
+            ]
+        }
+    ],
+    "stars": [
+        {
+            "xPosition": 50,
+            "brightness": 0.85,
+            "yPosition": 400,
+            "name": "Aldebaran"
+        },
+        {
+            "xPosition": 100,
+            "brightness": 1.65,
+            "yPosition": 450,
+            "name": "Elnath"
+        },
+        {
+            "xPosition": 150,
+            "brightness": 3.5,
+            "yPosition": 420,
+            "name": "Tau Tauri"
+        },
+        {
+            "xPosition": 52,
+            "brightness": 2.95,
+            "yPosition": 397,
+            "name": "Zeta Tauri"
+        },
+        {
+            "xPosition": 439,
+            "brightness": 0.42,
+            "yPosition": 316,
+            "name": "Betelgeuse"
+        },
+        {
+            "xPosition": 320,
+            "brightness": 0.12,
+            "yPosition": 500,
+            "name": "Rigel"
+        },
+        {
+            "xPosition": 343,
+            "brightness": 1.64,
+            "yPosition": 213,
+            "name": "Bellatrix"
+        },
+        {
+            "xPosition": 529,
+            "brightness": 0.98,
+            "yPosition": 169,
+            "name": "Spicas"
+        },
+        {
+            "xPosition": 620,
+            "brightness": 2.74,
+            "yPosition": 320,
+            "name": "Porrima"
+        },
+        {
+            "xPosition": 610,
+            "brightness": 3.4,
+            "yPosition": 340,
+            "name": "Auva"
+        },
+        {
+            "xPosition": 702,
+            "brightness": 2.85,
+            "yPosition": 169,
+            "name": "Vindemiatrix"
+        },
+        {
+            "xPosition": 800,
+            "brightness": 1.06,
+            "yPosition": 200,
+            "name": "Antares"
+        },
+        {
+            "xPosition": 895,
+            "brightness": 1.62,
+            "yPosition": 197,
+            "name": "Shaulaq"
+        },
+        {
+            "xPosition": 554,
+            "brightness": 1.86,
+            "yPosition": 599,
+            "name": "Sargassssss"
+        },
+        {
+            "xPosition": 84,
+            "brightness": 1,
+            "yPosition": 236,
+            "name": "wc"
+        }
+    ]
+}
